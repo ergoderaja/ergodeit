@@ -1,5 +1,5 @@
 <?php
-//test comments
+//test comments added extra words
 error_reporting(E_ALL);
 set_time_limit(10800);
 date_default_timezone_set("Asia/Kolkata");
